@@ -1,6 +1,6 @@
-package com.patterns.factory.method.creator
+package com.patterns.situations.factory.method.creator
 
-import com.patterns.factory.method.message.Message
+import com.patterns.situations.factory.method.message.Message
 
 abstract class MessageCreator {
 

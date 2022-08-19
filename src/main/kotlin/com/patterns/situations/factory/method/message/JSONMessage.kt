@@ -1,4 +1,4 @@
-package com.patterns.factory.method.message
+package com.patterns.situations.factory.method.message
 
 class JSONMessage: Message(){
     override fun getContent(): String {

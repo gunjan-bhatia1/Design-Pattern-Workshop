@@ -1,4 +1,4 @@
-package com.patterns.factory.method.message
+package com.patterns.situations.factory.method.message
 
 abstract class Message {
     abstract fun getContent(): String

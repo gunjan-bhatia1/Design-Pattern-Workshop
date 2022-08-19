@@ -1,4 +1,4 @@
-package com.patterns.simple.factory
+package com.patterns.situations.simple.factory
 
 fun main() {
     val post: Post = PostFactory.createPost("blog")

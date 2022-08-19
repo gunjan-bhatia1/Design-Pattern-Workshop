@@ -1,6 +1,4 @@
-package com.patterns.simple.factory.com.patterns.simple.factory
-
-import com.patterns.simple.factory.Post
+package com.patterns.situations.simple.factory
 
 
 /**

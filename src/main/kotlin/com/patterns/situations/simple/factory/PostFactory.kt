@@ -1,6 +1,5 @@
-package com.patterns.simple.factory
+package com.patterns.situations.simple.factory
 
-import com.patterns.simple.factory.com.patterns.simple.factory.BlogPost
 import java.time.LocalDateTime
 
 

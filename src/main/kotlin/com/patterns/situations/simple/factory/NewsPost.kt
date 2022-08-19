@@ -1,4 +1,4 @@
-package com.patterns.simple.factory
+package com.patterns.situations.simple.factory
 
 import java.time.LocalDate
 import java.time.LocalDateTime
